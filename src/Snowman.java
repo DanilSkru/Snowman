@@ -15,7 +15,7 @@ public class Snowman extends JFrame {
 
 class GUIsnowman extends JFrame {
     public GUIsnowman() {
-        super("Traffic light");
+        super("Snowman");
         this.setBounds(30, 30, 600, 700);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JLayeredPane lp = getLayeredPane();
